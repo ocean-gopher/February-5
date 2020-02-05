@@ -56,8 +56,10 @@ the reason to do this is to de-clutter the commit history
 
 ##Merging a branch
 
+To merge a branch, first check out the branch you want another branch to be merged in to.
+We want to  merge branch-1 in to master. 
 
-
+git merge name-of-branch
 
 
 
