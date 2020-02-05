@@ -43,8 +43,23 @@ git push
 #Branches
 You can create a new branch from within R using the terminal
 
- git branch,name-of-branch
+ git branch, name-of-branch
  
+to checkout:
+git checkout branch-1
+
+git reset HEAD^
+
+git reset HEAD^ allows you to remove temporary commits from the commit history
+the reason to do this is to de-clutter the commit history
+
+
+##Merging a branch
+
+
+
+
+
 
 
 
